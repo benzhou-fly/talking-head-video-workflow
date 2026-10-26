@@ -1,0 +1,4 @@
+interface:
+  display_name: "口播视频工作流"
+  short_description: "用 Fish Audio 反复换台词配音，默认阿里口型同步，也可选择火山备用"
+  default_prompt: "使用 $talking-head-video-workflow 生成口播配音和视频，口型同步默认阿里，也可按我的要求选择火山。"
